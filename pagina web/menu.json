@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link  href=" https://fonts.cdnfonts.com/css/tetroserbogia " rel="stylesheet">
+<link  href=" https://fonts.cdnfonts.com/css/tetroserbogia " rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/tetroserbogia" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/sf-orson-casual-heavy" rel="stylesheet">
+                
+  <title>Pagina web</title>
+</head>
+<body>
+   <div style="margin: 24px;">
+   	<nav class="navbar navbar-inverse navbar-stick-top">
+   		<div class="container">
+   			<a class="navbar-brand" href="index.html">Inicio</a>
+   			 <ul class="nav navbar-nav">
+   			 	<li class="active">
+   			 		<a href="menu.html">Menu</a>
+   			 	</li>
+   			 	<li>
+   			 		<a href="formulario.html">Formulario</a>
+   			 	</li>
+   			 	<li>
+   			 		<a href="resultado.html">Resultado</a>
+   			 	</li>
+   			 	<li>
+   			 		<a href="contacto.html">Contacto</a>
+   			 	</li>
+   			 </ul>
+   		</div>
+    </nav>
+</div>
+{
+   "menu":[
+    {
+    "nombre":"hamburguesa"
+    "descripcion":"Es una hamburguesa si"
+    "precio":100,
+    "imagen":"img E:/hamburguesa.jpg"
+    }
+    {
+    "nombre":"crepa"
+    "descripcion":"Es una crepa si"
+    "precio":65,
+    "imagen":"img/crepas.jpg"
+    }
+    {
+    "nombre":"papas fritas"
+    "descripcion":"Son papas fritas si"
+    "precio":60,
+    "imagen":"img/papas.jpg"
+    }
+    {
+    "nombre":"pastel"
+    "descripcion":"Es un pastel si"
+    "precio":110,
+    "imagen":"img/pastel.jpg"
+    }
+    {
+    "nombre":"frappe"
+    "descripcion":"Es un frappe si"
+    "precio":80,
+    "imagen":"img/frappe.jpg"
+    }
+    {
+    "nombre":"helados"
+    "descripcion":"Es una helados si"
+    "precio":25,
+    "imagen":"img/helados.jpg"
+    }
+    {
+    "nombre":"hot-dog"
+    "descripcion":"Es un hot-dog si"
+    "precio":35,
+    "imagen":"img/hot-dog.jpg"
+    }
+    {
+    "nombre":"sandwich"
+    "descripcion":"Es un sandwich si"
+    "precio":30,
+    "imagen":"img/sandwich.jpg"
+    }
+    {
+    "nombre":"michelada"
+    "descripcion":"Es una michelada si"
+    "precio":100,
+    "imagen":"img/michelada.jpg"
+    }]
+    {
+    "nombre":"tacos"
+    "descripcion":"Es una tacos si"
+    "precio":100,
+    "imagen":"img/taco.jpg"
+    },
+    {
+    "nombre":"carne asada"
+    "descripcion":"Es una carne asada si"
+    "precio":100,
+    "imagen":"img/carne asada.jpg"
+    },
+    {
+    "nombre":"fresas con crema"
+    "descripcion":"Es una fresas con crema si"
+    "precio":100,
+    "imagen":"img/fresas con crema.jpg"
+    },
+    {
+    "nombre":"pizza"
+    "descripcion":"Es una pizza si"
+    "precio":100,
+    "imagen":"img/creepa.jpg"
+    },
+    {
+    "nombre":"empanada"
+    "descripcion":"Es una empanada si"
+    "precio":100,
+    "imagen":"img/empanada.jpg"
+    },
+    {
+    "nombre":"malteada"
+    "descripcion":"Es una malteada si"
+    "precio":100,
+    "imagen":"img/malteada.jpg"
+    },
+    {
+    "nombre":"calzone"
+    "descripcion":"Es una calzone si"
+    "precio":100,
+    "imagen":"img/calzone.jpg"
+    },
+    {
+    "nombre":"spaguetti"
+    "descripcion":"Es una spaguetti si"
+    "precio":100,
+    "imagen":"img/spaguetti.jpg"
+    },
+    {
+    "nombre":"filete de pescado"
+    "descripcion":"Es una filete de pescado si"
+    "precio":100,
+    "imagen":"img/filete de pescado.jpg"
+    },
+    {
+    "nombre":"milanesa"
+    "descripcion":"Es una milanesa si"
+    "precio":100,
+    "imagen":"img/milanesa.jpg"
+    },
+    {
+    "nombre":"fajitas de pollo"
+    "descripcion":"Es una fajita de pollo si"
+    "precio":100,
+    "imagen":"img/fajita de pollo.jpg"
+    },
+}]
+
+</script>
+</body>
